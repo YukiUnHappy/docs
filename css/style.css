@@ -2581,19 +2581,19 @@ body.loaded-100 .teaser .site-main .main-visual {
   vertical-align: middle;
 }
 
-.global-menu-list-sub li.nora1 a {
+.global-menu-list-sub li.nora1vfb a {
   height: 40px;
   line-height: 40px;
 }
 
 @media (min-width: 980px) {
-  .global-menu-list-sub li.nora1 a {
+  .global-menu-list-sub li.nora1vfb a {
     height: 48px;
     line-height: 48px;
   }
 }
 
-.global-menu-list-sub li.nora1 img {
+.global-menu-list-sub li.nora1vfb img {
   width: auto;
   height: 34px;
 }
